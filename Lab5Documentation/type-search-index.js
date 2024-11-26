@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"KI.Tymkiv.Lab5","l":"EquationsApp"},{"p":"KI.Tymkiv.Lab5","l":"ExpressionCalculator"}];updateSearchResults();
