@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"KI.Tymkiv.Lab6","l":"Product"},{"p":"KI.Tymkiv.Lab6","l":"Storage"},{"p":"KI.Tymkiv.Lab6","l":"StorageDriver"}];updateSearchResults();
